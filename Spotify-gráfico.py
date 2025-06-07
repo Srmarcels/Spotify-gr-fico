@@ -1,4 +1,5 @@
-# Este código cria um gráfico de barras que mostra as 5 músicas mais tocadas no Spotify Brasil em 2019.
+# Este código cria um gráfico de barras que exibe as 5 músicas mais tocadas de uma playlist específica do Spotify.
+# Ele utiliza a biblioteca Spotipy para acessar a API do Spotify e matplotlib para criar o gráfico.
 # Importa as bibliotecas necessárias para gráficos e manipulação de arrays
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np 
